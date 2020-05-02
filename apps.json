@@ -1,6 +1,6 @@
 {
-  "name": "AltStore",
-  "identifier": "com.rileytestut.AltStore",
+  "name": "AltSource",
+  "identifier": "com.usernan.AltSrc",
   "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
   "apps": [
     {
