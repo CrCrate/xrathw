@@ -1,0 +1,58 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 5em;
+  background-color: #222222;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  color: white;
+  text-align: left;
+}
+
+head {
+  background-color: black;
+}
+
+
+
+
+.wrapper {
+  height: 100vh;
+}
+
+nav {
+  height: 44px;
+
+  background: black;
+}
+
+nav ul {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  height: 44px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+nav li {}
+
+nav a {
+  display: block;
+  color: white;
+  font-size: 15px;
+  font-weight: l;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  color: #B8B8B8;
+}
